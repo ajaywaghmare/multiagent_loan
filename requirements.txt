@@ -1,0 +1,5 @@
+autogen
+openai
+faiss-cpu
+sentence-transformers
+python-dotenv

@@ -1,0 +1,4 @@
+1. Loans below $50,000 require no collateral.
+2. Applicants with credit score below 600 will be rejected.
+3. For loans above $100,000, manager approval is needed.
+4. Self-employed applicants need 2 years of tax returns.
